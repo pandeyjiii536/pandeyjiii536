@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raunak Pandey
-- 👀 I’m interested in ..web development and DSA..
-- 🌱 I’m currently learning ...react js.
-- 📫 How to reach me https://www.linkedin.com/in/raunak-pandey-393830250/
+- 👀 I’m interested in web development and DSA..
+- 🌱 I’m currently learning react js.
+- 📫 How to reach me by linkedin https://www.linkedin.com/in/raunak-pandey-393830250/
 
 
 <!---
